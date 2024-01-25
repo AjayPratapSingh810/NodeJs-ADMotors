@@ -1,0 +1,21 @@
+.registerForm{
+    width:20vw;
+    height: fit-content;
+    margin-top: 20px;
+    padding:10px;
+    border: 2px solid #198754;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.main-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.login-register-link{
+    margin-top: 15px;
+    padding: 5px;
+    
+}

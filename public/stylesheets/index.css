@@ -1,0 +1,20 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  }
+  
+  a {
+    color: #00B7FF;
+  }
+  .carousel-item{
+    width: 40vw;
+    height: 50vh;
+    object-fit: cover;
+  }
+  
+  .join-us-para{
+    width: 60vw;
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+  }
